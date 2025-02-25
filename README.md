@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and robotics
 - 🌱 I’m currently learning embedded
 - 💞️ I’m looking to collaborate on unmanned vehicles
-- 📫 You can reach me here
+- 📫 You can reach me here: https://www.linkedin.com/in/jacek-dziurdzikowski/
 
 <!---
 JacekDziurdzikowski/JacekDziurdzikowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
